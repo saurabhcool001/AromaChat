@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69939742821",
+    "firebase_url": "https://aromachat-f1304.firebaseio.com",
+    "project_id": "aromachat-f1304",
+    "storage_bucket": "aromachat-f1304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69939742821:android:fe1057beaf4e4b72",
+        "android_client_info": {
+          "package_name": "com.example.saurabh.aromachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69939742821-qv62pcqv4vl39ivb87d62bbpagtlnacs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurabh.aromachat",
+            "certificate_hash": "8f5d154ffa46e58912c708efdbd56eeaeeb6558f"
+          }
+        },
+        {
+          "client_id": "69939742821-1ne0bq4la25u78h1b2om48i1po06mmpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkYb-HKOTB-eo_7fakF0qIjQddcYjcDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69939742821-1ne0bq4la25u78h1b2om48i1po06mmpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
